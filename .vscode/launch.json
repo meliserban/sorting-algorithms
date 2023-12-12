@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Melis/Desktop/GitHub/sorting-algorithms/MergeSort",
-      "program": "c:/Users/Melis/Desktop/GitHub/sorting-algorithms/MergeSort/build/Debug/outDebug",
+      "cwd": "c:/Users/Melis/Desktop/GitHub/sorting-algorithms/QuickSort",
+      "program": "c:/Users/Melis/Desktop/GitHub/sorting-algorithms/QuickSort/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
